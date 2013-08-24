@@ -1,12 +1,8 @@
-
 *.bib
-
 *.aux
-
 *.bbl
-
 *.blg
-
 *.out
-
 *.xml
+*.sublime-*
+*.fdb_latexmk
